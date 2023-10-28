@@ -1,0 +1,17 @@
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    color: teal;
+}
+p{
+    font-size: 50px;
+    color: palevioletred;
+}
+body{
+    background-color: black;
+}
+button{
+    background-color: grey;
+    color:hotpink;
+    font-size:larger;
+}
